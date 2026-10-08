@@ -1,0 +1,8 @@
+{
+  "name": "VacantDesk - Runtime Terror CodeUtsava X.0",
+  "description": "VacantDesk - NIT Raipur classroom vacancies, lecture schedules, and academic timetable tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
